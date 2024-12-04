@@ -4,8 +4,8 @@ This repository contains solutions to selected tasks from [Distance Learning Bel
 
 ## Content  
 
-1. **Chapter 1: Array**
+1. **Chapter Array**
    - Focused on problems involving arrays and one-dimensional data structures.  
 
-2. **Chapter 2: Matrices**  
+2. **Chapter Matrices**  
    - Covers tasks related to two-dimensional arrays (matrices).  
